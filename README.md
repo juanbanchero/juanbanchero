@@ -1,7 +1,7 @@
 ### Hola 👋🏻
 
-- 🍊 I'm currently working from home at [Pomelo](https://pomelo.la/ar/) (🤫 my team built that website)
-- 💻 Former Software Engineer at [J.P. Morgan](https://www.jpmorgan.com/global)
+- ⚙️ I'm currently working from home at my own company [Datricas](https://datricas.com)
+- 💻 Former Software Engineer at [J.P. Morgan](https://www.jpmorgan.com/global) and [Pomelo](https://www.pomelo.la/es/)
 - 🚀 Safely deploying on Fridays (99.8% of the time)
 
 <!--
